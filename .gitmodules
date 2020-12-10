@@ -4,5 +4,4 @@
 	branch = master
 [submodule "themes/zdoc"]
 	path = themes/zdoc
-	url = git@github.com:zzossig/hugo-theme-zdoc
-	branch = master
+	url = https://github.com/zzossig/hugo-theme-zzo.git
